@@ -1,5 +1,7 @@
 # NLP - Fake-new-detection
 
+You can download the DATA Set from
+https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
 
 Detecting Fake News with Python and Machine Learning
 
